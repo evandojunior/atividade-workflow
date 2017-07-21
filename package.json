@@ -1,0 +1,22 @@
+{
+  "name": "atividade-workflow",
+  "version": "1.0.0",
+  "description": "Aula Pratica Workflow - Certificação Bootstrap (Keven Jesus)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "js"
+  ],
+  "author": "Evando Junior <evando.junior@live.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
