@@ -1,0 +1,13 @@
+$colorTitle: red;
+$colorBorder: #000;
+
+.title {
+  color: $colorTitle;
+  text-align: center;
+}
+
+.text-center {
+  margin: 20px 360px;
+    padding: 55px;
+    border: 1px solid $colorBorder;
+  }
